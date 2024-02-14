@@ -21,9 +21,9 @@ import os, platform, time, sys
 print('\033[97;1m[\033[92;1m+\033[97;1m] \033[0;92mChecking Update...? ')
 time.sleep(5)
 os.system('clear')
-print("\033[97;1m[\033[92;1m+\033[97;1m] \033[0;92mJOIN MY SCRIPT GIFT GROUP")
+print("\033[97;1m[\033[92;1m+\033[97;1m] \033[0;92FOLLOW MY ID")
 time.sleep(2)
-os.system(f'xdg-open https://facebook.com/groups/554714119911648/')
+os.system(f'xdg-open https://web.facebook.com/md78566sujon')
 #------------------[ NOOB-SUJON]-------------------#
 #------------------[ USER-AGENT ]-------------------#
 ua = ["Mozilla/5.0 (Linux; Android 8.0.0; LLD-AL20) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Mobile Safari/537.36",]
@@ -187,13 +187,13 @@ def clear():
 def back():
     login()
 def contact():
-   # os.system('xdg-open https://www.facebook.com/Tutul.King.Ok.Bro')
+   # os.system('xdg-open https://web.facebook.com/md78566sujon')
     back()
 def linex():
     print('\033[1;37m')
 def animation(u):
     for e in u + "\n":sys.stdout.write(e);sys.stdout.flush();time.sleep(0.01)
-os.system("xdg-open https://www.facebook.com/Tutul.King.Ok.Bro")
+os.system("xdg-open https://web.facebook.com/md78566sujon")
 #------------------[ LOGO-LAKNAT ]-----------------#
 logo =""" 
 █████ ██    ██      ██  ██████  ███    ██ 
@@ -475,7 +475,7 @@ def dump_massal():
 def crack_file():
     print('\033[0;91m==================')
     os.system('espeak -a 300 " your file name"')
-    print('\033[1;32m[ Put File Example:  /sdcard/king.txt  Etc...]')
+    print('\033[1;32m[ Put File Example:  /sdcard/noob.txt  Etc...]')
     o = input('\033[97;1m[\033[92;1m+\033[97;1m] INPut FILE NAME :\033[92;1m ')
     try:lin = open(o).read().splitlines()
     except:
@@ -522,7 +522,7 @@ def setting():
     print("\033[97;1m[\033[92;1m2\033[97;1m] METHOD 2 [\033[0;93mCp id Show\033[1;37m]")
     print('\033[0;91m==================')
     hc = input('\033[97;1m[\033[92;1m•\033[97;1m] CHOOSE : ')
-    #os.system("xdg-open https://www.facebook.com/Tutul.King.Ok.Bro")
+    #os.system("xdg-open https://web.facebook.com/md78566sujon")
     if hc in ['1','01']:
         method.append('mobile')
     if hc in ['2','02']:
@@ -617,7 +617,7 @@ def passwrd():
 def crack(idf,pwv):
     global loop,ok,cp
     bo = random.choice([m,k,h,b,u,x])
-    sys.stdout.write(f"\r\033[100;92m{bo}[Tutul•M1]{P} [{H}{loop}{P}]>~<[{H}{len(id)}{P}] [{H}OK{bo}•{H}{ok}{P}] [{P}{'{:.0%}'.format(loop/float(len(id)))}{P}]\033[0;37m "),
+    sys.stdout.write(f"\r\033[100;92m{bo}[SUJON•M1]{P} [{H}{loop}{P}]>~<[{H}{len(id)}{P}] [{H}OK{bo}•{H}{ok}{P}] [{P}{'{:.0%}'.format(loop/float(len(id)))}{P}]\033[0;37m "),
     sys.stdout.flush()
     ua = random.choice(ugen)
     ua2 = random.choice(ugen2)
